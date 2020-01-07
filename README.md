@@ -1,4 +1,13 @@
 # CoupleGenerator
+### News
+
+I'm surprised so many friends are interested in this toy project. 
+I saw some friends on Weibo who said that the training results were not good.
+Here is the results after 8800 steps.
+
+
+
+
 Generate your lover with your photo
 This project is an old project from two years ago. 
 We collect pictures of marriage couples on the Internet, and pre-process the images.
@@ -14,3 +23,5 @@ You can make photos of yourself with the person you loved as a training pair~
 
 This repo is just for entertaments.
 If you have any interests, please feel free to use the code and the dataset.
+
+
