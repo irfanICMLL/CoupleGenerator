@@ -54,5 +54,13 @@ I have abandoned tf and started using pytorch.
 
 This project is totally a toy project, and I am working on semantic segmentation, instance segmentation on 2D images and videos for my PHD career. If you are interested in these topics, you can follow my github. I will release new code on video segmentation recently.
 
+### Extension
+I collect the marriage images on BaiDu image by using spyder. Here is an very old and simple code for collecting images:
+https://blog.csdn.net/qq_27879381/article/details/65015280#comments
+
+Just change the key word.
+
+If you really want to train an effective model, you can collect more images.
+
 ### AD
 CVPR2019： https://github.com/irfanICMLL/structure_knowledge_distillation
