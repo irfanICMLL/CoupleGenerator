@@ -15,6 +15,11 @@ I guess the environment should be tensorflow==1.1...
 You also need to download the pretrain weight for vgg through following links:
 https://github.com/machrisaa/tensorflow-vgg
 
+### Quick start
+
+Download the training iamges and unzip it: https://cloudstor.aarnet.edu.au/plus/s/VWZJaWfbla3kFch
+Run bash autotest.sh
+
 ### Original version
 Generate your lover with your photo
 This project is an old project from two years ago. 
